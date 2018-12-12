@@ -1,6 +1,10 @@
-# Spletne strani za naravoslovno in matematično pismenost
+# Spletne strani za naravoslovni in matematično pismenost
 
-Ta stran je v izdelavi. Pripombe in predlogi so dobrodošli. Če bi nam radi kaj sporočili, prosim [odprite zahtevek](https://gitlab.com/na-ma-poti/na-ma-poti.gitlab.io/issues/new).
+Te spletne strani so v izdelavi in niso še primerne za splošno publiko. Prosim za potrpljenje. 
+
+Za pripombe in predloge odprite 
+[zahtevek (Issue)](https://github.com/na-ma-poti/na-ma-poti.github.io/issues/new).
+
 
 ![](feeling-responsive-barebones-version.jpg)
 
@@ -58,4 +62,4 @@ Click the image to [watch the YouTube-Video-Tutorial][4].
  [8]: #
  [9]: #
  [10]: #
->>>>>>> 2b1d3f888933b6a5fc7f332881351cab8320a4c3
+

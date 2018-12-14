@@ -1,27 +1,64 @@
 #
 #   Navigation to the left › side: left
 #
-- title: Start
+- title: Začetek
   url: "/"
   side: left
 
-- title: "Dropdown Menu"
-  url: "#"
+- title: "Naravoslje"
+  url: "/naravoslovje/"
   side: left
   dropdown:
-  - title: "Dropdown Menu 1"
-    url: "#"
-  - title: "Dropdown Menu 2"
-    url: "#"
-  - title: "Dropdown Menu 3"
-    url: "#"
+  - title: "O naravoslovni pismenosti"
+    url: "/naravoslovje/pismenost/"
+  - title: "Vrtec"
+    url: "/naravoslovje/vrtec"
+  - title: "Prva triada"
+    url: "/naravoslovje/prva3"
+  - title: "Druga triada"
+    url: "/naravoslovje/druga3"
+  - title: "Tretja triada"
+    url: "/naravoslovje/tretja3"
+  - title: "Srednja šola"
+    url: "/naravoslovje/srednja"
 
-- title: Blog
-  url: "/blog/"
+- title: "Matematika"
+  url: "/matematika/"
   side: left
   dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
+  - title: "O matematični pismenosti"
+    url: "/matematika/pismenost/"
+  - title: "Vrtec"
+    url: "/matematika/vrtec"
+  - title: "Prva triada"
+    url: "/matematika/prva3"
+  - title: "Druga triada"
+    url: "/matematika/druga3"
+  - title: "Tretja triada"
+    url: "/matematika/tretja3"
+  - title: "Srednja šola"
+    url: "/naravoslovje/srednja"
+
+- title: "Delovne skupine"
+  url: "/skupine/"
+  side: left
+  dropdown:
+  - title: "Krtično mišljenje"
+    url: "/skupine/kriticno_misljenje/"
+  - title: "Avtentični problemi"
+    url: "/skupine/avtenticni_problemi/"
+
+- title: "Za učitelje"
+  url: "/ucitelji/"
+  side: left
+  dropdown:
+  - title: "Kako začeti"
+    url: "/ucitelji/zacetek/"
+  - title: "Kako pripraviti dejavnost"
+    url: "/ucitelji/kako/"
+
+- title: "Povezave"
+  url: "/povezave/"
 
 #
 #   Navigation to the right › side: right
@@ -30,10 +67,10 @@
   url: "/info/"
   side: right
 
-- title: "Search"
+- title: "Iskanje"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Kontakt"
   url: "/contact/"
   side: right

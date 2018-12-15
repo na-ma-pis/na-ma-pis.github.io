@@ -58,6 +58,7 @@
 - title: "Info"
   url: "/info/"
   side: right
+  dropdown:
   - title: "Pogosta vprašanja"
     url: "/vprasanja/"
 

@@ -1,27 +1,29 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/na-ma-poti
   class: icon-github
-  title: Code und mehr...
+  title: Koda in gradiva
+
+- name: GitLab
+  url: http://gitlab.com/na-ma-poti
+  class: icon-gitlab
+  title: Koda in gradiva (Gitlab)
+
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://www.youtube.com/channel/UCI9ynDLS9-ejo2oRxKWPDIw
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Videi na YouTube"
 
-- name: Twitter
-  url: http://twitter.com/phlow
-  class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+#- name: Twitter
+#url: http://twitter.com/phlow
+#class: icon-twitter
+#title: "Immer das Neuste von Phlow gibt es auf Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#- name: Phlow YouTube Google+
+#url: https://plus.google.com/u/0/+Phlow
+#class: icon-googleplus
+#title: "YouTube Google+"
 
 # - name: Facebook
 #   url: http://www.facebook.com/

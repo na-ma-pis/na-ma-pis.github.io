@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf",
-    "current": "03f5dd2a3a893dc3637cdfbb6da25d276f597ea03db701e7220b5dfcde6ef9bf"
+    "previous": "318cca8bc5ca2a666374b96ff94d924c359b3f8cdccd6b55c70a227f1a59a231",
+    "current": "318cca8bc5ca2a666374b96ff94d924c359b3f8cdccd6b55c70a227f1a59a231"
   },
   "fonts": [
     "./iconfont.ttf",
     "./iconfont.svg",
     "./iconfont.woff",
-    "./iconfont.eot"
+    "./iconfont.eot",
+    "./iconfont.woff2"
   ],
   "glyphs": {
     "archive": {
@@ -102,13 +103,13 @@
       "codepoint": 61717,
       "source": "svg-files-for-custom-font/github.svg"
     },
+    "gitlab": {
+      "codepoint": 61751,
+      "source": "svg-files-for-custom-font/gitlab.svg"
+    },
     "globe": {
       "codepoint": 61718,
       "source": "svg-files-for-custom-font/globe.svg"
-    },
-    "googleplus": {
-      "codepoint": 61750,
-      "source": "svg-files-for-custom-font/googleplus.svg"
     },
     "heart": {
       "codepoint": 61719,
@@ -234,8 +235,10 @@
   "options": {
     "autowidth": false,
     "config": "fontcustom.yml",
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
-    "debug": false,
+    "debug": true,
     "font_ascent": 448,
     "font_descent": 64,
     "font_design_size": 20,
@@ -243,8 +246,8 @@
     "font_name": "iconfont",
     "force": false,
     "input": {
-      "templates": "svg-files-for-custom-font/",
-      "vectors": "svg-files-for-custom-font/"
+      "templates": "svg-files-for-custom-font",
+      "vectors": "svg-files-for-custom-font"
     },
     "no_hash": true,
     "output": {

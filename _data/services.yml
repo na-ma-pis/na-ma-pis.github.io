@@ -1,17 +1,17 @@
-- menu_name: "Services"
+- menu_name: "Spletne storitve"
 
-- name: "Contact"
+- name: "Kontakt"
   url: "/contact/"
-  title: "Contact"
+  title: "Kontakt"
 
 - name: "RSS"
   url: "/feed.xml"
-  title: "Subscribe to RSS Feed"
+  title: "Naroči se na RSS vir"
 
 - name: "Atom"
   url: "/atom.xml"
-  title: "Subscribe to Atom Feed"
+  title: "Naroči se na Atom vir"
 
 - name: "sitemap.xml"
   url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+  title: "Načrt strani za Googleova spletna orodja"

@@ -5,7 +5,7 @@
 
 - name: GitLab
   url: http://gitlab.com/na-ma-poti
-  class: icon-gitlab
+  class: icon-globe
   title: Koda in gradiva (Gitlab)
 
 

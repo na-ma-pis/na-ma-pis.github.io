@@ -1,15 +1,17 @@
-- name: GitHub
+github:
+  name: GitHub
   url: http://github.com/na-ma-poti
   class: icon-github
   title: Koda in gradiva
 
-- name: GitLab
-  url: http://gitlab.com/na-ma-poti
+webpage:
+  name: WWW
+  url: https://www.zrss.si/objava/projekt-na-ma-poti
   class: icon-globe
-  title: Koda in gradiva (Gitlab)
+  title: Spletna stran projekta Na-Ma-Poti
 
-
-- name: YouTube
+youtube:
+  name: YouTube
   url: https://www.youtube.com/channel/UCI9ynDLS9-ejo2oRxKWPDIw
   class: icon-youtube
   title: "Videi na YouTube"

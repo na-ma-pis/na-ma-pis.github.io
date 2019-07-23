@@ -61,6 +61,8 @@
   dropdown:
   - title: "Pogosta vprašanja"
     url: "/vprasanja/"
+  - title: "Povezave"
+    url: "/povezave"
 
 - title: "Iskanje"
   url: "/search/"

@@ -17,7 +17,7 @@ slogan: "Sprosti svoje znanje naravoslovja in matematike!"
 description: "Spletna stran z gradivi za učitelje in primeri dejavnosti ki spodbujajo razvoj naravoslovne in matematične pismenosti na vseh nivojih izobraževanja."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Ustvarjeno v okviru projekta Na-Ma Poti. Oblikovano z <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> na osnovi teme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Ustvarjeno v okviru projekta <a href="https://www.zrss.si/objava/projekt-na-ma-poti" target="_blank">Na-Ma Poti</a>.</p>'
 
 # Main author of the website
 # See > authors.yml
@@ -25,12 +25,13 @@ author: martinv
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://na-ma-poti.gitlab.io'
+url: 'https://na-ma-poti.github.io'
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://gitlab.com/na-ma-poti/na-ma-poti.gitlab.io/tree/master
+# improve_content: https://gitlab.com/na-ma-poti/na-ma-poti.gitlab.io/tree/master
+improve_content: https://github.com/na-ma-poti/na-ma-poti.github.io/edit/master/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +39,7 @@ improve_content: https://gitlab.com/na-ma-poti/na-ma-poti.gitlab.io/tree/master
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://na-ma-poti.gitlab.io/images/'
+urlimg: 'https://na-ma-poti.github.io/images/'
 
 
 # Logo size is 600x80 pixels
@@ -142,8 +143,8 @@ defaults:
 #   ___/ / /___/ /_/ /
 #  /____/_____/\____/    Verify Website to Webmaster Tools
 
-google_author:             'https://plus.google.com/u/0/102485405751279270377'
-google_site_verification:  'xGk3_3bWVD507J-R_UEXu9AjbAy3NOmVx3a1ofufU_4'
+# google_author:             'https://plus.google.com/u/0/102485405751279270377'
+# google_site_verification:  'xGk3_3bWVD507J-R_UEXu9AjbAy3NOmVx3a1ofufU_4'
 # bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 # yandex_site_verification:  ''
 # alexa_verify_id:           ''
@@ -157,6 +158,8 @@ google_site_verification:  'xGk3_3bWVD507J-R_UEXu9AjbAy3NOmVx3a1ofufU_4'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
+favicon:                                'favicon.ico'
+favicon-16x16:                          'favicon-16x16.png'
 favicon-32x32:                          'favicon-32x32.png'
 touch-icon-192x192:                     'touch-icon-192x192.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
@@ -168,8 +171,10 @@ apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
-
+msapplication_tilecolor:                '#01509f'
+msapplication_config:                   'browserconfig.xml'
+safari-pinned-tab:                      'safari-pinned-tab.svg'
+# webmanifest:                            'site.webmanifest'
 
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
@@ -177,9 +182,9 @@ msapplication_tilecolor:                '#fabb00'
 #    / __/ / /_/ / /__/  __/ /_/ / /_/ / /_/ / ,<
 #   /_/    \__,_/\___/\___/_.___/\____/\____/_/|_|      Facebook-Optimization › http://j.mp/fb_optimize
 
-og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
-og_locale:                          'en_EN'
-og_type:                            'website'
+# og_image:                           'http://images.phlow.de/phlow/phlow_de-logo-512x.png'
+# og_locale:                          'en_EN'
+# og_type:                            'website'
 
 
 #      _____            _       __   __  ___         ___
@@ -191,9 +196,9 @@ og_type:                            'website'
 #  Open _data/socialmedia.yml to adjust the left and right topbar navigation
 #
 
-socialmedia:
-    twitter: phlow
-    facebook: phlow.media
+# socialmedia:
+#    twitter: phlow
+#    facebook: phlow.media
 
 
 #        ____  _
@@ -205,7 +210,7 @@ socialmedia:
 #
 # used in _includes/comments
 
-disqus_shortname: feelingresponsive
+# disqus_shortname: feelingresponsive
 
 
 #      _____
@@ -229,7 +234,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
-google_analytics_tracking_id: UA-60112281-1
+# google_analytics_tracking_id: UA-60112281-1
 
 
 

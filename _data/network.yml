@@ -1,4 +1,4 @@
-- menu_name: "Projekt podpirajo"
+- menu_name: "Spletišče podpirajo"
 
 - name: "ZRSŠ"
   url: "https://www.zrss.si/"
@@ -14,3 +14,8 @@
   url: "https://www.eu-skladi.si/"
   title: "Europski socialni sklad"
   logo: "logo-ess-2016.png"
+
+- name: "Projkekt Na-Ma Poti"
+  url: "https://www.zrss.si/objava/projekt-na-ma-poti"
+  title: "Projekt Na-Ma Poti"
+  logo: "Na-Ma-Poti_rumen.png"

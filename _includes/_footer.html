@@ -44,7 +44,7 @@
               {% if network_item.url %}
               <li>
                   <a href="{{ network_item.url }}" {% if network_item.url contains 'http' %}target="_blank" {% endif %} title="{{ network_item.title }}">
-                    <img src="{{ "/assets/img/" | absolute_url }}{{network_item.logo}}" alt="{{network_item.title}}">
+                    <img class="logo" src="{{ "/assets/img/" | absolute_url }}{{network_item.logo}}" alt="{{network_item.title}}">
                   </a>
               </li>
               {% endif %}

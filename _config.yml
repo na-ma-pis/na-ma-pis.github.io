@@ -17,7 +17,7 @@ slogan: "Sprosti svoje znanje naravoslovja in matematike!"
 description: "Spletna stran z gradivi za učitelje in primeri dejavnosti ki spodbujajo razvoj naravoslovne in matematične pismenosti na vseh nivojih izobraževanja."
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Ustvarjeno v okviru projekta Na-Ma Poti. Oblikovano z <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> na osnovi teme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+credits: '<p>Ustvarjeno v okviru projekta <a href="https://www.zrss.si/objava/projekt-na-ma-poti" target="_blank">Na-Ma Poti</a>.</p>'
 
 # Main author of the website
 # See > authors.yml

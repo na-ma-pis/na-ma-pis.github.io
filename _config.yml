@@ -157,6 +157,8 @@ google_site_verification:  'xGk3_3bWVD507J-R_UEXu9AjbAy3NOmVx3a1ofufU_4'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
+favicon:                                'favicon.ico'
+favicon-16x16:                          'favicon-16x16.png'
 favicon-32x32:                          'favicon-32x32.png'
 touch-icon-192x192:                     'touch-icon-192x192.png'
 apple-touch-icon-180x180-precomposed:   'apple-touch-icon-180x180-precomposed.png'
@@ -168,8 +170,10 @@ apple-touch-icon-76x76-precomposed:     'apple-touch-icon-76x76-precomposed.png'
 apple-touch-icon-72x72-precomposed:     'apple-touch-icon-72x72-precomposed.png'
 apple-touch-icon-precomposed:           'apple-touch-icon-precomposed.png'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
-msapplication_tilecolor:                '#fabb00'
-
+msapplication_tilecolor:                '#01509f'
+msapplication_config:                   'browserconfig.xml'
+safari-pinned-tab:                      'safari-pinned-tab.svg'
+# webmanifest:                            'site.webmanifest'
 
 #       ______                __                __
 #      / ____/___ _________  / /_  ____  ____  / /__
